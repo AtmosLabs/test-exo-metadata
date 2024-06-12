@@ -1,0 +1,53 @@
+{
+  "id": 0,
+  "image": "https://nft.atmos.xyz/nft/mkiv-genesis/dfpsok83/0.jpg",
+  "token_id": "0",
+  "name": "MKIV Exo: GE #0",
+  "description": "Base Jotun MKIV Exo with a Control Performance Profile.",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "Jotun"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Tertiary Color",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Quaternary Color",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Alt 1"
+    },
+    {
+      "trait_type": "Endo",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Decals",
+      "value": "None"
+    },
+    {
+      "trait_type": "Performance Profile",
+      "value": "Control"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Female"
+    }
+  ]
+}
