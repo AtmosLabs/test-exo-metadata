@@ -1,0 +1,52 @@
+{
+  "id": 2,
+  "image": "https://nft.atmos.xyz/nft/mkiv-genesis/dfpsok83/2.jpg",
+  "token_id": "2",
+  "name": "MKIV Exo: GE #2",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "Sacred Waste"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Tertiary Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Quaternary Color",
+      "value": "Stainless Steel"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Alt 1"
+    },
+    {
+      "trait_type": "Endo",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Decals",
+      "value": "None"
+    },
+    {
+      "trait_type": "Performance Profile",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Female"
+    }
+  ]
+}

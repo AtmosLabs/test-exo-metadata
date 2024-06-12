@@ -1,0 +1,52 @@
+{
+  "id": 3,
+  "image": "https://nft.atmos.xyz/nft/mkiv-genesis/dfpsok83/3.jpg",
+  "token_id": "3",
+  "name": "MKIV Exo: GE #3",
+  "attributes": [
+    {
+      "trait_type": "Team",
+      "value": "UMA"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Tertiary Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Quaternary Color",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Visor",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Endo",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Decals",
+      "value": "None"
+    },
+    {
+      "trait_type": "Performance Profile",
+      "value": "Control"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Female"
+    }
+  ]
+}
