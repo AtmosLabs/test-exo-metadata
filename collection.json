@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+  "name": "MKIV Exo: Genesis Edition",
+  "description": "The MKIV Exo is a wearable vehicle and is the foundational identity of any pilot participating in ExoGP. Composed of five key parts, the MKIV Exo is the core player unit for ExoGP. The Genesis Edition is the first and premiere collection from Planet Atmos. Holding one of these suits grants special privileges in the Planet Atmos ecosystem.",
+  "image": "https://atmoslabs.github.io/test-exo-metadata/collection.webp",
+  "external_link": "https://www.planetatmos.com"
 }
